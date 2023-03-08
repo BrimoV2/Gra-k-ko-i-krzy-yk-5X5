@@ -1,1 +1,1 @@
-# Gra-k-ko-i-krzy-yk-5X5
+# Gra kolko i krzyzyk 5X5
