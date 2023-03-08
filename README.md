@@ -1,4 +1,4 @@
-# Gra kolko i krzyzyk 5X5 w jezyku C
+# In C , Tic Tac Toe 5 X 5
 
 #include <stdio.h>
 #include <stdlib.h>
